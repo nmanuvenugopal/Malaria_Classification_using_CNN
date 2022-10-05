@@ -1,5 +1,8 @@
 # Malaria_Classification_using_CNN
 
+1. Link to the dataset are given below:
+https://drive.google.com/file/d/1N1gcN8_5dZVlIejoC00QZLSZFhGoSoQb/view (REF: Jose Portilla)
+
 1. Since the image is too large, I haven't uploaded the image, instead done the folder Mapping
 
 2. Proprocessed the image with data augmentation. Important point to note while apply ImageGenerator to the testing dataset is we should make Shuffle to False.
